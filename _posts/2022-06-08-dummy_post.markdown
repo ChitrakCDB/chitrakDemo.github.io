@@ -19,6 +19,8 @@ Curabitur laoreet urna in elit sollicitudin, sed mollis nulla faucibus. Sed lobo
 
 Etiam faucibus pretium congue. Maecenas ex nunc, consequat ut dignissim condimentum, auctor a mauris. Nulla quis scelerisque erat. Aliquam ut tempor erat. Donec dignissim aliquam vehicula. Ut finibus ligula neque, vitae tempor eros dignissim in. Etiam consectetur aliquam nibh. Maecenas augue est, suscipit id orci vel, varius venenatis nulla. Vestibulum congue iaculis hendrerit. Morbi pellentesque, erat eu tincidunt sollicitudin, risus ex scelerisque ex, pretium ultrices quam risus sit amet nulla. Pellentesque eget commodo nulla, feugiat pretium magna. In sit amet eros ac augue dictum laoreet. Curabitur pretium consequat est sed accumsan. Nulla ut vulputate dui, ut ultrices urna. Phasellus faucibus blandit lectus ac facilisis.
 
+![demoimage](https://hixonrails.com/wp-content/uploads/ruby-on-rails-active-storage-google-cloud-platform-aws-microsoft-azure-facebook.png)
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
