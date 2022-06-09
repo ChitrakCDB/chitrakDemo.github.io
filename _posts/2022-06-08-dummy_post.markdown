@@ -8,8 +8,8 @@ categories: jekyll update
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel nisl sit amet neque condimentum placerat non id dui. Vivamus facilisis eget ipsum sed euismod. Nullam leo dolor, fringilla non turpis facilisis, venenatis congue elit. Vestibulum quis gravida felis. Proin nec erat ac tortor imperdiet vulputate sed eget enim. Nam tincidunt nunc aliquet augue rutrum, et maximus velit sollicitudin. Ut porttitor erat erat, nec malesuada sapien mattis at. Cras bibendum ut nunc vitae placerat. Quisque a tortor non eros congue consequat. Nulla malesuada cursus arcu. Ut ullamcorper mauris libero, in molestie enim egestas sed. Sed rutrum diam ut urna facilisis pretium quis vitae elit.
 
 
-Checking Heading
---
+## Checking Heading
+
 
 Proin dignissim ultricies sapien nec vestibulum. Ut in magna volutpat, venenatis ante ut, elementum erat. Donec blandit ex nec ultricies dictum. Ut aliquet venenatis lectus, a efficitur lacus malesuada eu. Etiam eget sollicitudin magna. Ut eros dui, tincidunt non lectus id, fringilla scelerisque neque. Nullam non erat aliquam augue pretium semper. Praesent nec ex sed enim aliquet tincidunt vel sed nisi. Donec blandit nunc ac massa varius efficitur. Maecenas massa erat, semper sit amet tincidunt eu, faucibus a erat. Aliquam vel elit sit amet orci rhoncus iaculis. Donec volutpat egestas erat, id porttitor ex mattis vitae. Phasellus ultricies consequat libero id accumsan. Aenean scelerisque magna vitae nunc tempor faucibus. Maecenas viverra ante risus, vitae cursus dolor dapibus ut.
 
